@@ -1,0 +1,37 @@
+body {
+    font-family: Arial;
+    color:blue;
+    font-size: 0.9c,;
+}
+
+#shopping-cart {
+    margin: 40px;
+}
+
+#product-grid {
+    margin: 40px;
+}
+
+#shopping-cart table{
+    width: 100%;
+    background-color: #F0F0F0;
+}
+
+#shopping-cart table td {
+    background-color:#FFFFFF
+}
+
+.txt-heading {
+    color: #211a1a;
+    border-bottom: 1px solid #E0E0E0;
+    overflow: auto;
+}
+
+#btnEmpty{
+    background-color:#ffffff;
+    border: #d00000 1px solid;
+    padding:5px 10 px;
+    color: #d00000;
+    float: right;
+    text-decoration: none;
+}
